@@ -1,12 +1,12 @@
 engines:
   csslint:
-    enabled: false
+    enabled: true
   coffeelint:
-    enabled: true
+    enabled: false
   eslint:
-    enabled: true
+    enabled: false
   fixme:
-    enabled: true
+    enabled: false
 ratings:
   paths:
   - "**.css"
