@@ -15,3 +15,5 @@ ratings:
   - "**.jsx"
 exclude_paths:
 - tests/**/*
+- bower_components/**/*
+- examples/**/*
